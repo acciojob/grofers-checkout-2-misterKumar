@@ -1,5 +1,5 @@
 //your code here
-const priceArray=document.querySelectorAll('[data-ns-test="prices"]');
+const priceArray=document.querySelectorAll('[data-ns-test="price"]');
 let table=document.getElementById("table1");
 let ans=0;
 for (let i = 0; i < priceArray.length; i++) {
